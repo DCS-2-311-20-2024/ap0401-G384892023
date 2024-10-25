@@ -86,6 +86,7 @@ function init() {
     if(life==0){
       life=3;
       score=0;
+      remakeBricks()
     }
   }
 
